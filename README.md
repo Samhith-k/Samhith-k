@@ -4,6 +4,7 @@
 **Samhith-k/Samhith-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![](https://komarev.com/ghpvc/?username=Samhith-k&color=blueviolet)
+<br/>
 <a href="https://github.com/Samhith-k">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Samhith-k&theme=neon"/>
 </a>
