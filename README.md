@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samhith-k&langs_count=8&theme=neon&layout=compact" />
 </a>
 
-<img src="https://raw.githubusercontent.com/Samhith-k/Samhith-k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Samhith-k/Samhith-k/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on Distributed Systems and Web Design
 - 🌱 I’m learning Rust
